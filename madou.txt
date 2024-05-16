@@ -186,6 +186,19 @@ BJ韩国EP165,https://5721004.xyz/s2/第二季第5期20240510/jinricp_20240510_2
 BJ韩国EP166,https://5721004.xyz/s2/第二季第5期20240510/jinricp_20240510_2155_@kbjba.m3u8
 BJ韩国EP167,https://5721004.xyz/s2/第二季第5期20240510/jinricp_20240510_2255_@kbjba.m3u8
 BJ韩国EP168,https://5721004.xyz/s2/第二季第5期20240510/jinricp_20240510_2355_@kbjba.m3u8
+BJ韩国EP169,https://5721004.xyz/s2/第二季第6期20240513/jinricp_20240513_1350_@kbjba.m3u8
+BJ韩国EP170,https://5721004.xyz/s2/第二季第6期20240513/jinricp_20240513_1450_@kbjba.m3u8
+BJ韩国EP171,https://5721004.xyz/s2/第二季第6期20240513/jinricp_20240513_1550_@kbjba.m3u8
+BJ韩国EP172,https://5721004.xyz/s2/第二季第6期20240513/jinricp_20240513_1650_@kbjba.m3u8
+BJ韩国EP173,https://5721004.xyz/s2/第二季第6期20240513/jinricp_20240513_1750_@kbjba.m3u8
+BJ韩国EP174,https://5721004.xyz/s2/第二季第6期20240513/jinricp_20240513_1850_@kbjba.m3u8
+BJ韩国EP175,https://5721004.xyz/s2/第二季第6期20240513/jinricp_20240513_1950_@kbjba.m3u8
+BJ韩国EP176,https://5721004.xyz/s2/第二季第6期20240513/jinricp_20240513_2050_@kbjba.m3u8
+BJ韩国EP177,https://5721004.xyz/s2/第二季第6期20240513/jinricp_20240513_2150_@kbjba.m3u8
+BJ韩国EP178,https://5721004.xyz/s2/第二季第6期20240513/jinricp_20240513_2250_@kbjba.m3u8
+BJ韩国EP179,https://5721004.xyz/s2/第二季第6期20240513/jinricp_20240513_2350_@kbjba.m3u8
+BJ韩国EP180,https://5721004.xyz/s2/第二季第7期20240515/小黑屋1_20240515_qwas33_@kbjba.m3u8
+BJ韩国EP181,https://5721004.xyz/s2/第二季第7期20240515/小黑屋2_20240515_o111na_@kbjba.m3u8
 
 女优合集,#genre#
 十二星座性开关EP1,https://t21.cdn2020.com/video/m3u8/2023/01/16/81574bb5/index.m3u8
