@@ -17,6 +17,12 @@ SexGirl,http://125.227.210.55:62698/VideoInput/play.ts
 驚艷台,http://125.227.210.55:8156/VideoInput/play.ts
 
 Stripchat,#genre#
+Xenomy,https://b-hls-09.doppiocdn.com/hls/109536267/109536267_1080p.m3u8
+asuna_love,https://b-hls-24.doppiocdn.com/hls/86249010/86249010_1080p.m3u8?playlistType=standard
+MELON_OPI,https://b-hls-09.doppiocdn.com/hls/121708219/121708219.m3u8
+MySweetSofie,https://b-hls-04.doppiocdn.com/hls/26554060/26554060.m3u8?playlistType=standard
+Rio_chan_,https://b-hls-17.doppiocdn.com/hls/158599798/158599798.m3u8?playlistType=standard
+AkinLocal,https://edge-hls.doppiocdn.com/hls/76985715/master/76985715_auto.m3u8
 Yuka_Chan,https://edge-hls.doppiocdn.com/hls/137352027/master/137352027.m3u8
 Bamboo_Swetie,https://edge-hls.doppiocdn.com/hls/149889995/master/149889995.m3u8
 Lucky-uu,https://edge-hls.doppiocdn.com/hls/127882835/master/127882835_auto.m3u8
@@ -42,8 +48,6 @@ San_San,https://edge-hls.doppiocdn.live/hls/124944690/master/124944690_auto.m3u8
 zhuzhu-520,https://edge-hls.doppiocdn.com/hls/158465098/master/158465098_auto.m3u8
 Xxiaojing-66,https://edge-hls.doppiocdn.com/hls/166244445/master/166244445_auto.m3u8
 kiyoko_rin,https://edge12-nrt.live.mmcdn.com/live-hls/amlst:kiyoko_rin-sd-2dca5218e716894fc94d95509f659f99c9f096a6dc6d3dc1097f9f534e004ee0_trns_h264/playlist.m3u8
-
-
 
 女优合集,#genre#
 十二星座性开关EP1,https://t21.cdn2020.com/video/m3u8/2023/01/16/81574bb5/index.m3u8
