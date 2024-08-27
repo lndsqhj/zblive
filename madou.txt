@@ -10,11 +10,7 @@
 韩国美女EP2,https://pixeldrain.com/api/file/4eZaoRvt
 韩国美女EP3,https://pixeldrain.com/api/file/TRDR9vL7
 韩国美女EP4,https://pixeldrain.com/api/file/wi9euaoZ
-SexGirl,http://125.227.210.55:62698/VideoInput/play.ts
-奧視2,http://125.227.210.55:55643/VideoInput/play.ts
-奧視3,http://125.227.210.55:8917/VideoInput/play.ts
-香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
-驚艷台,http://125.227.210.55:8156/VideoInput/play.ts
+
 
 Stripchat,#genre#
 Xenomy,https://b-hls-09.doppiocdn.com/hls/109536267/109536267_1080p.m3u8
