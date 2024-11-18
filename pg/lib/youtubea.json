@@ -1,70 +1,88 @@
 {
 	"recommend":"LIST:最新|推薦,官方頻道",
 	"class":[
+
 		{
-			"type_id":"GETTRENDS",
-			"type_name":"Youtube Trends"
-		},
-		{
-			"type_id":"LIST:自媒體 We Media,老高與小茉 @laogao,脑洞乌托邦 @miniSuChang,我是苏畅@NDWTB,自说自话的总裁 @STBoss,纪实说 @C-Documentary,老肉雜談 @老肉雜談,李永樂老師 @TchLiyongle,滇西小哥 @dianxixiaoge,李子柒 Liziqi @cnliziqi,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小穎美食 @XiaoYingFood,primitivetechnology9550 @primitivetechnology9550,Mr Beast@MrBeast,Airforceproud95 @Airforceproud95,TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常",
+			"type_id":"LIST:自媒體 We Media,孟德四舅@Mr.M,李子柒 Liziqi @cnliziqi,我是苏畅@miniSuChang,薇凹@wuwur__116,薇傲的性趣@wuwur_116,王竹子@王竹子,小哥哥艾理@Avis__0207,MisuDiva蜜蘇@MisuDiva,Kai@Kai-b9z9w,喷泉乔老师@pqzy777,女神搜查線@star_world,性致聊研究室@intimacylab,超直白Chaozhibai@Chaozhibai,思春社@springfever,饺子嫂子@饺子嫂子,1G老濕 備用频道@1g317,大王本王的韩国主播分享@Dawang_i,雨后小故事@cpukfc,ED大大大什麽？@edbigwhat,玩達人-MasterToy大人玩具專賣店@-mastertoy8430,中指通@中指通,11點熱吵店@chopchopshow",
 			"type_name":"自媒體"
 		},
-		{
-			"type_id":"LIST:HDR,Girls HDR,Landscape HDR,Walk HDR",
-			"type_name":"HDR"
-		},
-		{
-			"type_id":"LIST:华语音乐,华语MV,点击率最高",
-			"type_name":"音樂"
-		},
-		{
-			"type_id":"LIST:综艺,芒果综艺,腾讯综艺,爱奇艺综艺,优酷综艺,卫视综艺",
-			"type_name":"綜藝"
-		},
-		{
-			"type_id":"LIST:紀錄片,历史纪录片,自然纪录片,宇宙纪录片",
-			"type_name":"紀錄片"
-		},
-		{
+
+               {
 			"type_id":"LIST:新闻 Live,体育直播,赛事直播",
 			"type_name":"新聞直播"
 		},
-		{
+
+                {
 			"type_id":"短劇",
 			"type_name":"短劇"
 		},
+
 		{
 			"type_id":"LIST:剧集,腾讯剧集,爱奇艺剧集,优酷剧集,芒果剧集,TVB",
 			"type_name":"劇集"
 		},
+
 		{
 			"type_id":"電影",
 			"type_name":"電影"
 		},
+
 		{
 			"type_id":"體育",
 			"type_name":"體育"
 		},
+
+	       {
+			"type_id":"LIST:华语音乐,华语MV,点击率最高",
+			"type_name":"音樂"
+		},
+
+		{
+			"type_id":"LIST:综艺,芒果综艺,腾讯综艺,爱奇艺综艺,优酷综艺,卫视综艺",
+			"type_name":"綜藝"
+		},
+
+		{
+			"type_id":"LIST:紀錄片,历史纪录片,自然纪录片,宇宙纪录片",
+			"type_name":"紀錄片"
+		},
+		
+		
 		{
 			"type_id":"時尚潮流",
 			"type_name":"時尚潮流"
 		},
+
 		{
 			"type_id":"放松",
 			"type_name":"放松"
 		},
+
 		{
 			"type_id":"4K",
 			"type_name":"4K"
 		},
+
+		{
+			"type_id":"GETTRENDS",
+			"type_name":"Youtube Trends"
+		},
+
+		{
+			"type_id":"LIST:HDR,Girls HDR,Landscape HDR,Walk HDR",
+			"type_name":"HDR"
+		},
+
 		{
 			"type_id":"宇宙",
 			"type_name":"科普知識"
 		},
+
 		{
 			"type_id":"科技",
 			"type_name":"科技"
 		},
+
 		{
 			"type_id":"解說",
 			"type_name":"解說"
