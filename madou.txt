@@ -13,6 +13,12 @@
 韩国美女EP2,https://pixeldrain.com/api/file/4eZaoRvt
 韩国美女EP3,https://pixeldrain.com/api/file/TRDR9vL7
 韩国美女EP4,https://pixeldrain.com/api/file/wi9euaoZ
+精艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+潘多拉完美台,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+松視1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+松視2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+松視3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 
 Stripchat,#genre#
 Kaka-323,https://edge-hls.doppiocdn.com/hls/141591044/master/141591044.m3u8
@@ -52,7 +58,7 @@ Mary_Brewer,https://edge-hls.doppiocdn.com/hls/155546665/master/155546665.m3u8
 Asian2021,https://edge-hls.doppiocdn.com/hls/46540334/master/46540334.m3u8
 Serana_KT,https://edge-hls.doppiocdn.com/hls/90063379/master/90063379.m3u8
 Hanissa,https://edge-hls.doppiocdn.com/hls/85039413/master/85039413.m3u8
---Relaxtime--,https://edge-hls.doppiocdn.com/hls/76881459/master/76881459.m3u8
+Relaxtime,https://edge-hls.doppiocdn.com/hls/76881459/master/76881459.m3u8
 KaleAnisa,https://edge-hls.doppiocdn.com/hls/133045844/master/133045844.m3u8
 Zoe_klarxxx,https://edge-hls.doppiocdn.com/hls/80403003/master/80403003.m3u8
 sweetpeash33,https://edge-hls.doppiocdn.com/hls/149340628/master/149340628.m3u8
