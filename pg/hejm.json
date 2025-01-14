@@ -186,15 +186,29 @@
 
 
     {
-      "key": "drpyS_腾云驾雾[官]",
-      "name": "🍄腾云驾雾",
-      "type": 4,
+      "key": "腾云驾雾①",
+      "name": "🍄腾云驾雾①",
+      "type": 3,
       "api": "http://drpys.6516789.xyz/api/腾云驾雾[官]",
       "searchable": 2,
       "filterable": 1,
       "quickSearch": 0,
       "ext": ""
     },
+
+
+    {
+      "key": "腾云驾雾②",
+      "name": "🍄腾云驾雾②",
+      "type": 3,
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/drpy/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/drpy/0腾云驾雾.js"
+    },
+
 
 
     {
@@ -522,10 +536,42 @@
       "url": "Web"
     },
 
-  {
-      "name": "虾米",
-      "url": "http://drpys.6516789.xyz/parse/虾米?url=",
-      "type": 1,
+   {
+      "name": "虾米1",
+      "url": "https://jx.xmflv.com/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "虾米2",
+      "url": "https://jx.xmflv.cc/?url=",
+      "type": 0,
       "ext": {
         "flag": [
           "qiyi",
