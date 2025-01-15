@@ -18,7 +18,7 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
+				"channellist":"leoziyuan,ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
 				"proxy":"noproxy",
 				"douban":"./lib/douban.json",
 				"danmu":true
@@ -164,7 +164,7 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+				"channellist":"leoziyuan,ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
 				"proxy":"proxy",
 				"danmu":true
 			},
@@ -195,7 +195,7 @@
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json$$$WOBG"},
 		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"},
 		{"key":"蜡笔网盘","name":"蜡笔|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
-		{"key":"Mogg","name":"木偶哥哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
+		{"key":"Mogg","name":"木偶哥哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://www.mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
 		{"key":"Huban","name":"虎斑|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60,
 			"ext": "./lib/token.json$$$https://wp.huban.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$U_HUBAN"
 		},
@@ -316,16 +316,6 @@
 			"changeable": 1,
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
-		},
-		{
-			"key": "賤賤",
-			"name": "荐片",
-			"type": 3,
-			"api": "csp_Jianpian",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "./lib/jianpian.json$$$1",
-			"timeout":60
 		},
 		{
 			"key": "NanGua",
@@ -688,7 +678,107 @@
 				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+				}
+			},
+			{
+				"name": "最强国内直播(-1天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+				}
+			},
+			{
+				"name": "最强CIPTV",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
+				"ua": "okhttp/3.15..",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
+				}
+			},
+			{
+				"name": "最强CIPTV(-1天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
+				"ua": "okhttp/3.15..",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
+				}
+			},
+			{
+				"name": "最强CIPTV(-2天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
+				"ua": "okhttp/3.15..",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE2SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
+				}
+			},
+			{
+				"name": "最强CIPTV(-3天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
+				"ua": "okhttp/3.15..",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE3SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
+				}
+			},
+			{
+				"name": "最强CIPTV(-4天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
+				"ua": "okhttp/3.15..",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE4SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
+				}
+			},
+			{
+				"name": "最强CIPTV(-5天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
+				"ua": "okhttp/3.15..",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE5SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
+				}
+			},
+			{
+				"name": "最强CIPTV(-6天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
+				"ua": "okhttp/3.15..",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE6SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
+				}
 			},
 			{
 				"name": "肥羊B站直播",
@@ -816,6 +906,54 @@
 				"url": "http://127.0.0.1:10079/c/3600/proxy/http://ww.zouming.com/ipv6.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "zouming.ipv6(-1天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/proxy/http://ww.zouming.com/ipv6.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "zouming.ipv6(-2天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/proxy/http://ww.zouming.com/ipv6.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE2SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "zouming.ipv6(-3天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/proxy/http://ww.zouming.com/ipv6.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE3SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "zouming.ipv6(-4天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/proxy/http://ww.zouming.com/ipv6.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE4SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "zouming.ipv6(-5天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/proxy/http://ww.zouming.com/ipv6.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE5SUB",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "zouming.ipv6(-6天回看)",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/proxy/http://ww.zouming.com/ipv6.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE6SUB",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
