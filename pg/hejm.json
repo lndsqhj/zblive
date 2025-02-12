@@ -103,21 +103,6 @@
     },
 
 
-   {
-      "key": "小米UC",
-      "name": "🤓小米UC",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 120,
-      "ext": "./lib/tokenm.json$$$http://www.mucpan.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$"
-    },
-
-
-
-
   {
        "key":"115Share",
         "name":"⛅️115云盘分享",
@@ -136,7 +121,27 @@
 },
 
 
-    
+
+		{"key":"Wogg","name":"👲玩偶|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
+
+
+
+		{"key":"蜡笔网盘","name":"🖍︎蜡笔|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
+
+
+		{
+			"key": "至臻|网盘",
+			"name": "💌至臻|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
+		},
+
+ 
     {
       "key": "玩偶",
       "name": "🚀玩偶哥哥",
