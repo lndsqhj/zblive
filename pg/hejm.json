@@ -121,14 +121,33 @@
 },
 
 
-
-		{"key":"Wogg","name":"🧸玩偶|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
-
-
-
-		{"key":"蜡笔网盘","name":"🖍︎蜡笔|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
-
-
+		{"key":"Guanying","name":"🎬观影|网盘|磁力","type":3,"api":"csp_Guanying","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.gying.net$$$noproxy$$$1$$$./lib/guanying.txt$$$GUANYING"},	
+		
+		{"key":"FourKFM","name":"🎬4K影库|网盘|磁力","type":3,"api":"csp_FourKFM","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$./lib/4kfm.txt$$$4KFM"},
+		
+		
+		{"key":"校长影视","name":"🎬校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
+		
+		
+		
+		{"key":"Wogg","name":"🧸玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
+		
+		
+		
+		{"key":"yydsys","name":"🚕玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"},
+		
+		
+		{"key":"蜡笔网盘","name":"🖍蜡笔|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
+		
+		
+		
+		{"key":"Mogg","name":"🎨木偶哥哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://tv.91muou.icu/$$$proxy$$$1$$$./lib/wogg.json$$$MOGG"},
+		
+		
+		
+		{"key":"Xiaomi","name":"🏵小米|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.mucpan.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"},
+		
+		
 		{
 			"key": "至臻|网盘",
 			"name": "💌至臻|网盘",
@@ -138,8 +157,17 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
+			"ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
 		},
+
+
+
+
+
+
+
+
+
 
  
     {
