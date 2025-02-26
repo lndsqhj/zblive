@@ -1,7 +1,7 @@
 {
   "spider": "./pg.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "logo": "https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/imgs/pg.gif",
+    "logo": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/imgs/pg.gif",
 
 
   "sites": [
@@ -222,12 +222,12 @@
       "key": "腾云驾雾②",
       "name": "🍄腾云驾雾②",
       "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/drpy/drpy2.min.js",
+      "api": "https://slink.ltd/https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/drpy/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/drpy/0腾云驾雾.js"
+      "ext": "https://slink.ltd/https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/drpy/0腾云驾雾.js"
     },
 
 
