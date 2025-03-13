@@ -162,23 +162,16 @@
 
 
 
-
-
-
-
-
-
-
  
-    {
+   {
       "key": "玩偶",
       "name": "🚀玩偶哥哥",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_WoGGGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
@@ -188,21 +181,22 @@
     },
 
 
-    {
+
+   {
       "key": "UC",
       "name": "🌈优汐",
       "type": 3,
-      "api": "csp_UuSs",
+      "api": "csp_UuSsGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74",    
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
+        "from": "4k|auto",
+        "pturl": "http://mo.91muou.icu/|http://54271.fun/|http://mo.666291.xyz/"
       }
     },
-
 
 
 
@@ -236,82 +230,90 @@
       "key": "新6V",
       "name": "🧲新6V┃磁力",
       "type": 3,
-      "api": "csp_SixV",
+      "api": "csp_SixVGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com/",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
+
     },
 
 
 
-    {
+ {
       "key": "文采",
       "name": "💮文采",
       "type": 3,
-      "api": "csp_Jpys",
+      "api": "csp_JpysGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable":  1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
+
     },
 
+
     {
-      "key": "苹果",
-      "name": "🍎苹果",
+      "key": "原创",
+      "name": "👓原创┃不卡",
       "type": 3,
-      "api": "csp_LiteApple",
+      "api": "csp_YCyzGuard",
+      "timeout": 15,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"
-      
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
     },
+
+
+
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteAppleGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+       "changeable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
+
+    },
+
+
+
     {
       "key": "厂长",
-      "name": "📔厂长",
+      "name": "📔厂长┃不卡",
       "type": 3,
-      "api": "csp_NewCz",
+      "api": "csp_NewCzGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzyvideo.com/",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"
-      
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
+
     },
 
 
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"
-      
-    },
 
 
     {
-      "key": "88js",
-      "name": "⚽ 88看球",
+      "key": "88",
+      "name": "⚽88┃看球",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+      "api": "csp_Sir88Guard",
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
       "style": {
         "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74"
+      }
     },
+
 
 
 
