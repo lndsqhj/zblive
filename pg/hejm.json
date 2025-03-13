@@ -6,7 +6,7 @@
 
   "sites": [
   
-                 {"key":"Local","name":"🎬本地","type":3,"api":"csp_Local"},
+                 {"key":"Local","name":"🗂本地","type":3,"api":"csp_Local"},
 
 		{
 			"key": "豆瓣",
