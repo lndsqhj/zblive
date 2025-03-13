@@ -6,6 +6,7 @@
 
   "sites": [
   
+                 {"key":"Local","name":"🎬本地","type":3,"api":"csp_Local"},
 
 		{
 			"key": "豆瓣",
@@ -17,6 +18,9 @@
 			"indexs":1,
 			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
+
+
+
 
     {
       "key": "网盘配置",
@@ -41,25 +45,33 @@
     },
 
 
-  {
-      "key": "TGDouban",
-      "name": "🎀TG豆瓣",
-      "type": 3,
-      "api": "csp_TGDouban",
-      "timeout": 120,
-      "ext": {
-        "token": "./lib/tokenm.json",
-        "json": "./lib/tgsearch.json",
-        "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://127.0.0.1:10199",
-        "tgsearch_media_url": "http://127.0.0.1:10199",
-         "channellist":"tgsearchers,ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
-        "proxy": "noproxy",
-        "douban": "./lib/douban.json",
-        "danmu": false
-      }
 
-    },
+
+
+{
+                       "key":"TGDouban","name":"🎀TG豆瓣","type":3,"api":"csp_TGDouban","timeout":120, 
+			"ext":{
+				"token":"./lib/tokenm.json",
+				"json":"./lib/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
+				"proxy":"noproxy",
+				"douban":"./lib/douban.json",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 0.75
+			}
+		},
+
+
+
+
+
+
 
 
         {
