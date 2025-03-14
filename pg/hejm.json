@@ -173,32 +173,6 @@
 			"ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
 		},
 
-{"key":"Bt0","name":"🧲不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$noproxy$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 0.75
-			}
-		},
-
-
-{"key":"Yinfans","name":"🧲音范丝|磁力","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"},
-
-
-{
-			"key": "Bdys_spider",
-			"name": "🧲修罗┃磁力",
-			"api": "csp_Bdys01",
-			"type": 3,
-			"filterable": 1,
-			"searchable":1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"timeout":60,
-			"ext": "./lib/tokenm.json$$$https://www.xlys01.com/$$$noproxy$$$1"
-		},
-
-
-
 
  
    {
@@ -236,31 +210,6 @@
       }
     },
 
-
-
-    {
-      "key": "腾云驾雾①",
-      "name": "🍄腾云驾雾①",
-      "type": 4,
-      "api": "http://drpys.6516789.xyz/api/腾云驾雾[官]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
-
-
-    {
-      "key": "腾云驾雾②",
-      "name": "🍄腾云驾雾②",
-      "type": 3,
-      "api": "https://slink.ltd/https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/drpy/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://slink.ltd/https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/drpy/0腾云驾雾.js"
-    },
 
 
 
