@@ -73,7 +73,7 @@
 		
 {
             "key": "TGDouban",
-            "name": "🎀TG豆瓣②",
+            "name": "🍋TG豆瓣②",
             "type": 3,
             "api": "csp_TGDouban",
             "timeout": 120,
@@ -98,7 +98,7 @@
 		
    {
             "key": "TGYunPanLocal123",
-            "name": "🥝TG123",
+            "name": "🍄TG123",
             "type": 3,
             "api": "csp_TGYunPanLocal",
             "timeout": 60,
