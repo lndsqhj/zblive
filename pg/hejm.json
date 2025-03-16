@@ -49,8 +49,8 @@
 
 
 {
-        "key":"TGDouban",
-        "name":"🎀TG豆瓣",
+        "key":"TG豆瓣①",
+        "name":"🎀TG豆瓣①",
         "type":3,
         "api":"csp_TGDouban",
         "timeout":120, 
@@ -60,7 +60,7 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
+				"channellist":"leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,wanwansubchat|1000",
 				"proxy":"noproxy",
 				"douban":"./lib/douban.json",
 				"danmu":true
@@ -70,7 +70,128 @@
 				"ratio": 0.75
 			}
 		},
-
+		
+{
+            "key": "TGDouban",
+            "name": "🎀TG豆瓣②",
+            "type": 3,
+            "api": "csp_TGDouban",
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
+                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
+                "channellist": "tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,alypzyhzq,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,pan123pan,zyfb123,zyzhpd123,xx123pan,dianyingshare,XiangxiuNB,leoziyuan,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe,tgsearchers,ydyp888,NewQuark,MCPH860,joinchat/AAAAAEhkwtQjONQXe--Z8g",
+                "proxy": "noproxy",
+                "douban": "./lib/douban.json",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 0.8
+            }
+        },	
+		
+		
+		
+   {
+            "key": "TGYunPanLocal123",
+            "name": "🥝TG123",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 60,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
+                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
+                "channellist": "pan123pan,zyfb123,zyzhpd123,xx123pan",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 0.8
+            }
+        },
+	
+		
+		
+        
+        
+        {
+            "key": "TGYunPanLocal合集",
+            "name": "🍏TG|合集",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 60,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
+                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
+                "channellist": "oneonefivewpfx,ucwpzy,ucpanpan,ydypzyfx,yydf_hzl,tianyirigeng,zyfb123,zyzhpd123,yunpanshare,clouddriveresources,tgsearchers,yunpanpan,pan123pan,xx123pan,aliyunys,shareAliyun,Aliyun_4K_Movies,alyp_4K_Movies,alyp_Animation,alyp_TV,alyp_JLP,alyp_1,NewQuark,Quark_Movies,ucquark,Oscar_4Kmovies,kuakeyun,kuakeclound,kuakezyfb,tyypzhpd,MCPH860,MCPH608,MCPH01,ysxb48,xunleibl,leoziyuan,XiangxiuNB,longzbija,zaihuayun,dianying share,cloudtianyi,quanziyuanshe,ydyp888",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            }
+        },
+        
+        
+        
+        {
+            "key": "TGYunPanLocal天翼",
+            "name": "🎬TG天翼",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 60,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
+                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
+                "channellist": "tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            }
+        },
+        
+        
+        {
+            "key": "TGYunPanLocal移动",
+            "name": "🚄TG移动",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 60,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
+                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
+                "channellist": "ydyp888,ydypzyfx",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            }
+        },
+        
+        
 
 
 
@@ -138,7 +259,6 @@
 
 
 		
-		
 		{"key":"校长影视","name":"🎬校长|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
 		
 		
@@ -172,6 +292,7 @@
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
 		},
+
 
 
  
