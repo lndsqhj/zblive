@@ -420,8 +420,9 @@
       "searchable": 0,
       "changeable": 0,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743623383873/f0403.txt;md5;c1a7a5a3b46a63e643a30e737be4cbc1",    
-      "style": {
-        "type": "list"
+     "style": {
+        "type": "rect",
+        "ratio": 1.33
       }
     },
     
@@ -434,8 +435,9 @@
       "searchable": 0,
       "changeable": 0,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743623383873/f0403.txt;md5;c1a7a5a3b46a63e643a30e737be4cbc1",    
-      "style": {
-        "type": "list"
+       "style": {
+        "type": "rect",
+        "ratio": 1.33
       }
     },
     
@@ -449,8 +451,9 @@
       "searchable": 0,
       "changeable": 0,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743623383873/f0403.txt;md5;c1a7a5a3b46a63e643a30e737be4cbc1",    
-      "style": {
-        "type": "list"
+     "style": {
+        "type": "rect",
+        "ratio": 1.33
       }
     },
     
@@ -462,8 +465,9 @@
       "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/jrk.js",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743623383873/f0403.txt;md5;c1a7a5a3b46a63e643a30e737be4cbc1",   
-      "style": {
-        "type": "list"
+       "style": {
+        "type": "rect",
+        "ratio": 1.33
       },
       "searchable": 0,
       "quickSearch": 0,
