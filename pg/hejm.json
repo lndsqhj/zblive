@@ -163,52 +163,6 @@
 		},
 
 
-
-        {
-            "key": "TGYunPanLocal天翼",
-            "name": "🎬TG天翼",
-            "type": 3,
-            "api": "csp_TGYunPanLocal",
-            "timeout": 60,
-            "ext": {
-                "token": "./lib/tokenm.json",
-                "json": "./lib/tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
-                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
-                "channellist": "tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound",
-                "proxy": "noproxy",
-                "danmu": true
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 0.75
-            }
-        },
-        
-        
-        {
-            "key": "TGYunPanLocal移动",
-            "name": "🚄TG移动",
-            "type": 3,
-            "api": "csp_TGYunPanLocal",
-            "timeout": 60,
-            "ext": {
-                "token": "./lib/tokenm.json",
-                "json": "./lib/tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
-                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
-                "channellist": "ydyp888,ydypzyfx",
-                "proxy": "noproxy",
-                "danmu": true
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 0.75
-            }
-        },
-        
         
 
 
@@ -238,64 +192,7 @@
 
         },
 
-
-
-   {
-      "key": "UCShare",
-      "name": "😼UC云盘",
-      "type": 3,
-      "api": "csp_UCShare",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 120,
-      "ext": "./lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1",
-      "style": {
-        "type": "list"
-      }
-
-    },
-
-
-  {
-       "key":"115Share",
-        "name":"⛅️115云盘分享",
-        "type":3,
-        "api":"csp_P115Share",
-        "searchable":1,
-        "quickSearch":1,
-        "changeable":0,
-        "filterable":0,
-        "timeout":120, 
-        "ext":"./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
-	"style": {
-			"type": "list",
-			"ratio": 1.1
-	}
-},
-
-
-		
-		{"key":"校长影视","name":"🎬校长|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
-		
-		
-		
-		{"key":"Wogg","name":"🧸玩偶|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
-		
-		
-		
-		{"key":"yydsys","name":"🚕老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"},
-		
-		
-		{"key":"蜡笔网盘","name":"🖍蜡笔|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
-		
-		
-		
-		
-		{"key":"Xiaomi","name":"🏵小米|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.mucpan.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"},
-		
-		
+	
 		{
 			"key": "至臻|网盘",
 			"name": "💌至臻|网盘",
@@ -319,13 +216,6 @@
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
 		},
-
-
-
-
-
-
-
 
 
 
