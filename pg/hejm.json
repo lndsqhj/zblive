@@ -15,23 +15,77 @@
 
 
 
-		{"key":"TGDouban","name":"🎀TG豆瓣","type":3,"api":"csp_TGDouban","timeout":120, 
+	{
+        "key":"TGDouban①",
+        "name":"🎀TG豆瓣①",
+        "type":3,
+        "api":"csp_TGDouban",
+        "timeout":120, 
 			"ext":{
 				"token":"./lib/tokenm.json",
 				"json":"./lib/tgsearch.json",
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
+				"channellist":"tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,wanwansubchat|1000",
 				"proxy":"noproxy",
 				"douban":"./lib/douban.json",
 				"danmu":true
 			},
 			"style": {
 				"type": "rect",
-				"ratio": 0.7
+				"ratio": 0.8
 			}
 		},
+
+
+
+{
+            "key": "TGDouban②",
+            "name": "🍋TG豆瓣②",
+            "type": 3,
+            "api": "csp_TGDouban",
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
+                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
+                "channellist": "tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,alypzyhzq,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,pan123pan,zyfb123,zyzhpd123,xx123pan,dianyingshare,XiangxiuNB,leoziyuan,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe,tgsearchers,ydyp888,NewQuark,MCPH860,joinchat/AAAAAEhkwtQjONQXe--Z8g",
+                "proxy": "noproxy",
+                "douban": "./lib/douban.json",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 0.8
+            }
+        },	
+		
+		
+   {
+            "key": "TGYunPanLocal123",
+            "name": "🍄TG123",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 60,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
+                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
+                "channellist": "pan123pan,zyfb123,zyzhpd123,xx123pan",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 0.8
+            }
+        },
+
 		
 		{
 			"key":"Youtube",
@@ -80,7 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
@@ -99,7 +153,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -119,7 +173,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com/",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b"
 
     },
 
@@ -134,7 +188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable":  1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b"
 
     },
 
@@ -149,7 +203,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b"
     },
 
 
@@ -163,7 +217,7 @@
       "searchable": 1,
       "quickSearch": 1,
        "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b"
 
     },
 
@@ -179,7 +233,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzyvideo.com/",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b"
 
     },
 
@@ -195,7 +249,7 @@
       "api": "csp_kanqiu926Guard",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5",    
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b",    
       "style": {
         "type": "list"
       }
@@ -209,7 +263,7 @@
       "api": "csp_Sir88Guard",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5",    
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b",    
       "style": {
         "type": "list"
       }
@@ -224,7 +278,7 @@
       "api": "csp_KanqiuGuard",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5",    
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b",    
       "style": {
         "type": "list"
       }
@@ -237,7 +291,7 @@
       "type": 3,
       "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/jrk.js",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746629246668/f0508.txt;md5;fe5929df64eb2358effeb032359732e5",   
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b",   
       "style": {
         "type": "list"
       },
@@ -259,41 +313,6 @@
 		},
 
 
-
-{"key":"TGYunPanLocal","name":"🌟TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://127.0.0.1:10199",
-				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
-				"proxy":"proxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
-
-
-		{"key":"TGYunPan","name":"🍊TG群组搜索","type":3,"api":"csp_TGYunPan","timeout":120, 
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://127.0.0.1:10199",
-				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
-				"proxy":"noproxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
 		{"key":"Guanying","name":"🥌观影|网盘|磁力","type":3,"api":"csp_Guanying","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.gying.net$$$noproxy$$$1$$$./lib/guanying.txt$$$GUANYING"},
 		{"key":"FourKFM","name":"🎹4K影库|网盘|磁力","type":3,"api":"csp_FourKFM","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$./lib/4kfm.txt$$$4KFM"},
 		{"key":"校长影视","name":"📺校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
