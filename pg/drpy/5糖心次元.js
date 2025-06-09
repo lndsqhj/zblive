@@ -2,10 +2,7 @@ var rule ={
             title: '溏心次元',
             host: 'https://h87rn18w.txcy-lzs.buzz/index.php/',
                    
-            
-          //  url: 'https://h87rn18w.txcy-lzs.buzz/index.php/vodtype/{cateId}-{catePg}.html',
-                   
-
+    
             url: 'https://h87rn18w.txcy-lzs.buzz/index.php/vodtype/fyclass-fypage.html',
                  
             class_name:'MD系列&导演系列& MDS系列&MDX系列&MDXS系列&MDL系列& MMZ系列&MAD系列&MDWP系列&MSD系列&MDM恋爱咖啡&MDUS系列&MXJ系列&MKY系列&MAN系列&MCY系列&MDAG系列&MDHT系列&BLX系列&MPG系列&兔子先生&果冻传媒&皇家华人&吴梦梦无套系列&PsychoPorn色控&蜜桃影像传媒&天美传媒&91制片厂&MSM性梦者&叮叮映画&涩会&豚豚创媒&爱妃传媒&辣椒原创&O-STAR&肉肉传媒&渡边传媒&葵心娱乐&红斯灯影像&麻麻传媒&蝌蚪传媒&Pussy Hunter&桃花源&大鸟十八&疯拍系列&KISS糖果屋&小鹏奇啪行&30天解密麻豆&突袭女优计划&女神羞羞研究所&小哥哥艾理&情趣K歌房&淫欲游戏王&麻豆不回家&女优淫娃培训营&狼人插&女优擂台摔角狂热&恋爱巴士&男女优生死斗&情人劫密室逃脱&换妻&你好同学&禁欲小屋&鲍鱼的胜利&性爱自修室&春游记&心动的性号&情趣大富翁&寻宝吧女神&男优练习生&女神体育祭&麻豆高校&野外露初&乌鸦传媒&精东影业&SWAG&星空无限传媒&大象传媒&大象传媒&MINI传媒&糖心&葫芦影业&天马传媒&CCAV成人头条&性视界传媒&SA国际传媒&香蕉传媒&91茄子&EDmosaic&国产片商&节目企划',
